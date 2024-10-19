@@ -11,6 +11,6 @@ El Growth Mindset, o "mentalidad de crecimiento", es la creencia de que las habi
 -Las críticas constructivas te ayudan a mejorar: En lugar de ver las críticas como algo negativo, úsalas como una herramienta para identificar áreas de mejora y avanzar hacia tus objetivos.
 
 LINK:
--[github](https://github.com/Ameri50/reading-notes-101n6/blob/main/README.md)
+-[github](https://github.com/Ameri50/reading-notes-101n6/blob/main/README.md "Mi github notas")
 
 
