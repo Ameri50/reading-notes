@@ -16,7 +16,7 @@ ssj52949@gmail.com
 -[LinkedIn](https://www.linkedin.com/in/moises-ssj-864b6a333/ "mi linkedIN")
 
 ###Mis notas de Lectura:
--[Notas](https://github.com/Ameri50/reading-notes-101n6/blob/main/Mindset.md "Mis Notas")
+[Notas](./https://github.com/Ameri50/reading-notes-101n6/blob/main/Mindset.md "Mis Notas")
 
 
 
