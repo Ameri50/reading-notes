@@ -7,16 +7,16 @@ Me llamo Moises Rojas tengo 20 años , vivo en lima-Perú  y estudio diseño y d
 ##Informacion de Contacto:
 
 (Link de github)
-https://github.com/Ameri50
+-[link](https://github.com/Ameri50)
 
 (correo)
 ssj52949@gmail.com
 
 (Link de LinkedIn)
-https://www.linkedin.com/in/moises-ssj-864b6a333/
+-[LinkedIn](https://www.linkedin.com/in/moises-ssj-864b6a333/)
 
 ###Mis notas de Lectura:
-https://github.com/Ameri50/reading-notes-101n6/blob/main/Mindset.md
+-[Notas](https://github.com/Ameri50/reading-notes-101n6/blob/main/Mindset.md)
 
 
 
