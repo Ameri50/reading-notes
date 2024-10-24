@@ -1,33 +1,58 @@
 # Moises Rojas
 
-<div align="center" style="border: 2px solid #0073e6; border-radius: 10px; padding: 20px; max-width: 500px; background-color: #f9f9f9; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
+![Moises Rojas](https://github.com/user-attachments/assets/430998de-05ee-435d-988f-6300c22cb027 "Moises Rojas")
 
-  <img src="https://github.com/user-attachments/assets/430998de-05ee-435d-988f-6300c22cb027" alt="Moises Rojas" width="200px" style="border-radius: 50%; margin-bottom: 20px;">
+## Moises Rojas Rojas
 
-  <h1>Moises Rojas</h1>
-  <p><strong>Diseñador y Desarrollador de Software</strong></p>
+Diseñador y Desarrollador de Software
 
-  <p>
-    Me llamo <strong>Moises Rojas</strong>, tengo 20 años, vivo en Lima, Perú, y actualmente estudio <strong>Diseño y Desarrollo de Software</strong> en <strong>TECSUP</strong> (5to ciclo). Combino habilidades creativas y técnicas para crear soluciones digitales innovadoras. Mi enfoque principal está en diseñar prototipos en <strong>Figma</strong>, y me apasiona estar al día con las tendencias tecnológicas y de diseño para mejorar continuamente mi trabajo.
-  </p>
+Me llamo **Moises Rojas**, tengo 20 años, vivo en Lima, Perú, y actualmente estudio **Diseño y Desarrollo de Software** en **TECSUP** (5to ciclo). Combino habilidades creativas y técnicas para crear soluciones digitales innovadoras. Mi enfoque principal está en diseñar prototipos en **Figma**, y me apasiona estar al día con las tendencias tecnológicas y de diseño para mejorar continuamente mi trabajo.
 
-  <h2>Información de Contacto</h2>
-  <ul style="list-style-type: none; padding: 0;">
-    <li><strong>GitHub:</strong> <a href="https://github.com/Ameri50" target="_blank" style="color: #0073e6;">Mi GitHub</a></li>
-    <li><strong>Correo:</strong> <a href="mailto:ssj52949@gmail.com" style="color: #0073e6;">ssj52949@gmail.com</a></li>
-    <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/moises-ssj-864b6a333/" target="_blank" style="color: #0073e6;">Mi LinkedIn</a></li>
-  </ul>
+### Información de Contacto
 
-  <h2>Mis Notas de Lectura</h2>
-  <p>Explora algunas de mis notas recientes:</p>
-  <ul style="list-style-type: none; padding: 0;">
-    <li><a href="https://github.com/Ameri50/reading-notes-101n6/blob/main/Mindset.md" target="_blank" style="color: #0073e6;">Mindset: Cambiando tu Mentalidad</a></li>
-  </ul>
+- **GitHub:** [Mi GitHub](https://github.com/Ameri50)
+- **Correo:** [ssj52949@gmail.com](mailto:ssj52949@gmail.com)
+- **LinkedIn:** [Mi LinkedIn](https://www.linkedin.com/in/moises-ssj-864b6a333/)
 
-  <div align="center" style="margin-top: 20px; font-style: italic; color: #555;">
-      "Siempre aprendiendo, siempre mejorando."
-  </div>
-</div>
+## Mis Notas de Lectura
 
+Explora algunas de mis notas recientes:
 
+- [Mindset: Cambiando tu Mentalidad](https://github.com/Ameri50/reading-notes-101n6/blob/main/Mindset.md)
 
+> "Siempre aprendiendo, siempre mejorando."
+
+### Notas de lectura del Code 101
+
+- [Lecture sobre la web](./101/read01.md)
+- [Read01](./101/read01.md)
+- [Read02](./101/read02.md)
+- [Read03](./101/read03.md)
+- [Read04](./101/read04.md)
+- [Read05](./101/read05.md)
+- [Read06](./101/read06.md)
+- [Read07](./101/read07.md)
+- [Read08](./101/read08.md)
+- [Read09](./101/read09.md)
+- [Read10](./101/read10.md)
+- [Read11](./101/read11.md)
+
+## Notas de lectura del Code 201
+
+- [Read01](./201/read01.md)
+- [Read02](./201/read02.md)
+- [Read03](./201/read03.md)
+- [Read04](./201/read04.md)
+- [Read05](./201/read05.md)
+- [Read06](./201/read06.md)
+- [Read07](./201/read07.md)
+- [Read08](./201/read08.md)
+- [Read09](./201/read09.md)
+- [Read10](./201/read10.md)
+- [Read11](./201/read11.md)
+- [Read12](./201/read12.md)
+- [Read13](./201/read13.md)
+- [Read14](./201/read14.md)
+- [Read15](./201/read15.md)
+- [Read16](./201/read16.md)
+- [Read17](./201/read17.md)
